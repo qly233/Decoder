@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\szdl\yimaqi\yimaqi.ncd
+OUTFILE=D:\szdl\yimaqi\yimaqi.bit
+FAMILY=Artix7
+PART=xc7a100t-2lfgg484
+WORKINGDIR=D:\szdl\yimaqi
+LICENSE=WebPack
+USER_INFO=__0_0_0
